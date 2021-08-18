@@ -8,12 +8,11 @@ I have published research in Springer focused on deep learning. I also co-wrote 
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
  - Bachelor of Science in Computer Engineering at `Iowa State university of science and technology`
 
-<!---
+
 :computer: **Most Relevant Work Experience:**
  - Research Assistent at *Politecnico di Milano  | Winter 2019 - Current
  - associate consultant at *National Veterans Service  | Winter 2020 - August 2021
-  
---->
+
 
 :dart: **Kaggle Competitions Repo:**
  - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
