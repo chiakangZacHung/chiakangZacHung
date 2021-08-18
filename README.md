@@ -2,11 +2,11 @@
 
 
 I graduated from Politecnico di Milano with a master's degree in computer science and computer engineer, and I received my bachelor's degree from Iowa State University, USA.  
-I have published research in Springer focused on deep learning. I also co-wrote a book chapter, which will be published in Elsevier.
+I have published research in Springer focused on deep learning. I also co-wrote a book chapter on the application of deep learning, which will be published in Elsevier.
 
 :mortar_board: **Education:**
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
- - Bachelor of Science in Computer Engineering at `Iowa State university of science and technology`
+ - Bachelor of Science in Computer Science and Engineering at `Iowa State university of science and technology`
 
 :dart: **Kaggle Competitions Repo:**
  - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
