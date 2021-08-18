@@ -1,6 +1,8 @@
-## Hi there, nice to meet you 👋 
+## <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome.</h1>
 
-I am Chiakang! I have published research in Springer focused on deep learning. I also co-wrote a book chapter on the application of deep learning, which will be published in Elsevier.
+
+
+Welcome to my page! I'm Chiakang! I am a data science researcher and a programmer. I have published research in Springer focused on deep learning. I also co-wrote a book chapter on the application of deep learning, which will be published in Elsevier.
 
 :mortar_board: **Education:**
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
