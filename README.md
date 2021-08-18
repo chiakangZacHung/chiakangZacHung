@@ -8,9 +8,6 @@ Welcome to my page! I'm Chiakang! I am a data science researcher and a programme
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
  - Bachelor of Science in Computer Science and Engineering at `Iowa State university of science and technology`
 
-:dart: **Kaggle Competitions Repo:**
- - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
- - [Recommender Systems Competition](https://github.com/manuelsalamino/RecSys_Competition)
 
 
 :pushpin: **Projects:**
