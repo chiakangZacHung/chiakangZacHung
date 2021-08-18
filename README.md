@@ -25,18 +25,39 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 
 
 :pushpin: **Projects:**
- - [Spotify Top30 Analysis](https://github.com/manuelsalamino/Spotify_Top30_Analysis)
- - [Social Influence & Pricing](https://github.com/manuelsalamino/Data_Intelligence_App)
- - [Distributed Job Scheduling](https://github.com/manuelsalamino/Distributed_Job_Scheduling)
- - [Bachelor Thesis - 'Localizzazione di scale in planimetrie'](https://github.com/manuelsalamino/FindStairs)
- - [Email Classifier](https://github.com/manuelsalamino/EmailClassifier) - my first project on AI
+ - [GraphConv](https://github.com/manuelsalamino/Spotify_Top30_Analysis)
+ - [2ndAmes](https://github.com/manuelsalamino/Data_Intelligence_App)
+
 
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/)
-- `manuelsalamino@gmail.com`
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chiakang-hung-1b1b69213/)
+- `chiakang.hung@gmail.com`
 
 
+[<code>
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</code>](https://docs.oracle.com/en/java/)
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)
+
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<code>
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>](https://dev.mysql.com/)
+[<code>
+<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+</code>](https://www.latex-project.org/)
+[<code>
+<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
+</code>](https://www.jetbrains.com/pycharm/)
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 :boy: **About me:**
 
 - 🔭 I’m currently working on research for deep learning.
