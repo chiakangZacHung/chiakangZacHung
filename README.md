@@ -1,6 +1,6 @@
 ## Hi there, nice to meet you 👋 
 
-I am an author and decoratedI have published research in Springer focused on deep learning. I also co-wrote a book chapter on the application of deep learning, which will be published in Elsevier.
+I am Chiakang! I have published research in Springer focused on deep learning. I also co-wrote a book chapter on the application of deep learning, which will be published in Elsevier.
 
 :mortar_board: **Education:**
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
