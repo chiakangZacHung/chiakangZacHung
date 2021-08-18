@@ -36,14 +36,11 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 
 ### Languages and Tools:
 [<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</code>](https://docs.oracle.com/en/java/)
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
@@ -53,9 +50,6 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 :boy: **About me:**
 
