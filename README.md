@@ -56,5 +56,5 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 - 🔭 I’m currently working on research for deep learning.
 - 🌱 I’m currently learning how to get prepared for a job interview
 - :musical_note: I listen a lot of music
-- :running: I do a lot of sport
-- :cocktail: I worked as bartender in wedding and birthday parties during my bachelor degree
+- :running: I enjoy playing sports
+
