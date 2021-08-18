@@ -1,22 +1,18 @@
 ## Hi there, nice to meet you 👋
 
 
-I am a Computer Science and Engineering student at Politecnico di Milano and I am **currently working on my Master Thesis about Anomaly Detection**.  
-My studies are focused on Machine Learning and Data Science since my Bachelor Degree. I had to thank the course of Artifical Intelligence for this because it allowed me to discover this beautiful field that was unknown to me.  
+I graduated from Politecnico di Milano with a master's degree in computer science and computer engineer, and I received my bachelor's degree from Iowa State University, USA.  
+I have published research in Springer focused on deep learning. I also co-wrote a book chapter, which will be published in Elsevier.
 
 :mortar_board: **Education:**
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
- - Bachelor of Science in Computer Engineering at `Università Degli Studi di Firenze`
+ - Bachelor of Science in Computer Engineering at `Iowa State university of science and technology`
 
 <!---
 :computer: **Most Relevant Work Experience:**
- - IT Area Manager at *Jeflo - Junior Enterprise Florence* | March 2017 - Dec 2018
- - IT Area Member at *Jeflo - Junior Enterprise Florence* | May 2016 - March 2017
+ - Research Assistent at *Politecnico di Milano  | Winter 2019 - Current
+ - associate consultant at *National Veterans Service  | Winter 2020 - August 2021
   
-  
-#### What is a Junior Enterprise?
-It's a **no-profit association of students** with the main goal of practise what we are studying.  
-The concept, as described also in [JE Website](https://juniorenterprises.it/en/), is very simple: `"A Junior Enterprise gives students the opportunity to put their theoretical knowledge into practice through the realization of projects and studies required by companies, institutions or individuals."`
 --->
 
 :dart: **Kaggle Competitions Repo:**
