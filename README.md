@@ -13,6 +13,7 @@ Welcome to my page! I'm Chiakang! I am a data science researcher and a programme
 :pushpin: **Projects:**
  - [GraphConv](https://github.com/chiakangZacHung/Gini_Hung-QSAR_GCN)
  - [2ndAmes](https://github.com/chiakangZacHung/Bayesian-GCN-)
+ - [eScoop](https://github.com/chiakangZacHung/eScoop)
 
 
 
