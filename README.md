@@ -8,7 +8,8 @@ Welcome to my page! I'm Chiakang! I am a data science researcher and a programme
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
  - Bachelor of Science in Computer Science and Engineering at `Iowa State university of science and technology`
 
-
+:trophy: **Kaggle Competition:**
+- [ImageClassification&Segmentation](https://github.com/chiakangZacHung/Kaggle_ImageClassification-Segmentation)
 
 :pushpin: **Projects:**
  - [GraphConv](https://github.com/chiakangZacHung/Gini_Hung-QSAR_GCN)
