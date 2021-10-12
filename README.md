@@ -47,4 +47,4 @@ Welcome to my page! I'm Chiakang! I am a data science researcher and a programme
 - :running: I enjoy playing sports
 - :earth_americas: I have backpacked in over 30 countries
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{chiakangZacHung}/count.svg)
