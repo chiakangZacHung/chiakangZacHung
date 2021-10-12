@@ -45,4 +45,4 @@ Welcome to my page! I'm Chiakang! I am a data science researcher and a programme
 - 🌱 I’m currently learning how to get prepared for a job interview
 - :musical_note: I listen to a lot of music
 - :running: I enjoy playing sports
-- :earth_americas: I have back packed in over 30 countries
+- :earth_americas: I have backpacked in over 30 countries
