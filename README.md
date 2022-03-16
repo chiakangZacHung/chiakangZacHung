@@ -11,10 +11,8 @@ Welcome to my page! I'm Chiakang! I am very passionate about coding. I have publ
 :trophy: **Kaggle Competition:**
 - [Image Classification & Segmentation](https://github.com/chiakangZacHung/Kaggle_ImageClassification-Segmentation)
 
-:trophy: **Self-driving-car Competition:**
-- [Self-driving-car]:(https://github.com/chiakangZacHung/tool-competition-av)
-
 :pushpin: **Projects:**
+- [Self-driving-car]:(https://github.com/chiakangZacHung/tool-competition-av)
  - [GraphConv](https://github.com/chiakangZacHung/Gini_Hung-QSAR_GCN)
  - [2ndAmes](https://github.com/chiakangZacHung/Bayesian-GCN-)
  - [eScoop](https://github.com/chiakangZacHung/eScoop)
