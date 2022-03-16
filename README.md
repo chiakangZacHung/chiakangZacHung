@@ -12,7 +12,7 @@ Welcome to my page! I'm Chiakang! I am very passionate about coding. I have publ
 - [Image Classification & Segmentation](https://github.com/chiakangZacHung/Kaggle_ImageClassification-Segmentation)
 
 :trophy: **Self-driving-car Competition:**
-- [Self-driving-car]:https://github.com/chiakangZacHung/tool-competition-av
+- [Self-driving-car]:(https://github.com/chiakangZacHung/tool-competition-av)
 
 :pushpin: **Projects:**
  - [GraphConv](https://github.com/chiakangZacHung/Gini_Hung-QSAR_GCN)
