@@ -7,14 +7,15 @@ Welcome to my page! I'm Chiakang! I am very passionate about coding. I have publ
 :mortar_board: **Education:**
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
  - Bachelor of Science in Computer Science and Engineering at `Iowa State university of science and technology`
-
-:trophy: **Kaggle Competition:**
-- [Image Classification & Segmentation](https://github.com/chiakangZacHung/Kaggle_ImageClassification-Segmentation)
+:trophy: **Italian National Train System:**
+- [Rete Ferroviaria Italiana ](https://github.com/chiakangZacHung/iv4xr-mbt)
 
 :trophy: **Self-Driving-Car Competition:**
 - [Self-driving-car](https://github.com/chiakangZacHung/tool-competition-av)
-:trophy: **Italian National Train System:**
-- [Rete Ferroviaria Italiana ](https://github.com/chiakangZacHung/iv4xr-mbt)
+ 
+:trophy: **Kaggle Competition:**
+- [Image Classification & Segmentation](https://github.com/chiakangZacHung/Kaggle_ImageClassification-Segmentation)
+
 
 :pushpin: **Projects:**
  - [GraphConv](https://github.com/chiakangZacHung/Gini_Hung-QSAR_GCN)
