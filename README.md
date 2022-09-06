@@ -13,6 +13,8 @@ Welcome to my page! I'm Chiakang! I am very passionate about coding. I have publ
 
 :trophy: **Self-Driving-Car Competition:**
 - [Self-driving-car](https://github.com/chiakangZacHung/tool-competition-av)
+
+[![Video by BeamNg GmbH](https://github.com/BeamNG/BeamNGpy/raw/master/media/steering.gif)](https://github.com/BeamNG/BeamNGpy/raw/master/media/steering.gif)
  
 :trophy: **Kaggle Competition:**
 - [Image Classification & Segmentation](https://github.com/chiakangZacHung/Kaggle_ImageClassification-Segmentation)
