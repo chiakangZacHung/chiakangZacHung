@@ -24,6 +24,7 @@ Welcome to my page! I'm Chiakang! I am very passionate about coding. I have publ
  - [GraphConv](https://github.com/chiakangZacHung/Gini_Hung-QSAR_GCN)
  - [2ndAmes](https://github.com/chiakangZacHung/Bayesian-GCN-)
  - [eScoop](https://github.com/chiakangZacHung/eScoop)
+ - [Social Network Generator] (https://github.com/chiakangZacHung/Social-Network-Generator)
 
 
 
